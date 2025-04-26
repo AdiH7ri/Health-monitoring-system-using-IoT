@@ -3,7 +3,7 @@ Bachelors capstone project carried out at VIT Chennai
 
 ## About
 
-The proposed model/system aims to monitor the health of people by observing the change in the respiratory system, heart rate, and blood oxygen level and alert the user to take precautions. This model monitors the breathing/respiration rate, Blood oxygen level, and beats per minute (Bpm) of the patients all through the day in their daily life to notify the user in case there is any discrepancy observed.
+The proposed model/system aims to monitor the health of people by observing the change in the respiratory system, heart rate, and blood oxygen level and alert the user to take precautions. This model monitors the breathing/respiration rate, Blood oxygen level, and beats per minute (Bpm) of the patients all through the day in their daily life to notify the user in case there is any discrepancy is observed.
 
 ## Schematic Diagram of the Proposed System
 
